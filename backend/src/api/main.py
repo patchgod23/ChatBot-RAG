@@ -1,3 +1,7 @@
+import os
+# Desactivar telemetría de Chroma
+os.environ["ANONYMIZED_TELEMETRY"] = "False"
+
 import logging
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
@@ -27,6 +31,15 @@ async def startup_event():
     logger.info("Iniciando pre-carga de modelos y base de datos...")
     try:
         get_vector_store()
+        
+        # Warm-up del LLM para evitar lag inicial (Cold Start)
+        from src.chain.rag_chain import _llm
+        try:
+            _llm.invoke("Hola")
+            logger.info("Warm-up del LLM completado con éxito.")
+        except Exception as llm_e:
+            logger.warning("No se pudo realizar el warm-up del LLM: %s", llm_e)
+            
         logger.info("Pre-carga completada con éxito.")
     except Exception as e:
         logger.error("Error durante la pre-carga: %s", e)

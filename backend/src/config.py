@@ -15,8 +15,8 @@ class Settings(BaseSettings):
     chunk_size: int = 500
     chunk_overlap: int = 100
     retriever_k: int = 4
-    retriever_top_k: int = 3
-    similarity_threshold: float = 10.0 # Umbral relajado para depuración
+    retriever_top_k: int = 4
+    similarity_threshold: float = 1.2 # Óptimo para MiniLM
     memory_window_k: int = 5
 
     class Config:
