@@ -1,0 +1,88 @@
+PÓLIZA DE SEGURO DE HOGAR — BICE SEGUROS CHILE
+Tipo de seguro: hogar
+Versión: 2024-v1
+Vigencia: anual renovable
+
+=== DESCRIPCIÓN GENERAL ===
+
+El Seguro de Hogar BICE protege el inmueble del asegurado y su contenido frente a daños materiales causados por eventos cubiertos. Aplica tanto a propietarios como a arrendatarios (en plan contenido).
+
+=== PLANES DISPONIBLES ===
+
+- Plan Propietario: cubre estructura del inmueble + contenido.
+- Plan Arrendatario: cubre solo el contenido (muebles, electrodomésticos, objetos de valor).
+- Plan Ampliado: cubre estructura + contenido + responsabilidad civil hacia terceros.
+
+=== COBERTURAS INCLUIDAS ===
+
+1. INCENDIO Y EXPLOSIÓN
+Cubre daños totales o parciales causados por incendio de cualquier origen o explosión.
+Incluye daños por humo como consecuencia directa del incendio.
+Monto máximo: valor de reconstrucción del inmueble o valor de reposición del contenido según tasación.
+
+2. DAÑOS POR AGUA
+Cubre daños causados por:
+- Rotura o obstrucción accidental de cañerías internas.
+- Filtración desde el exterior por fallas estructurales imprevistas.
+- Desbordamiento de lavadoras o lavavajillas por falla mecánica.
+No cubre filtraciones crónicas conocidas por el asegurado ni humedad estructural.
+
+3. FENÓMENOS NATURALES
+Cubre daños causados por: terremoto, maremoto, aluvión, inundación por lluvia, viento, granizo.
+Deducible en caso de terremoto: 5% del valor asegurado, mínimo 10 UF.
+Deducible en otros fenómenos: 2 UF.
+
+4. ROBO CON FUERZA
+Cubre el robo de contenido cuando existe evidencia de fuerza en la entrada (cerraduras forzadas, vidrios rotos, etc.).
+No cubre robo sin evidencia de fuerza (llaves extraviadas, puerta abierta).
+Monto máximo para joyas y dinero en efectivo: 30 UF (requiere declaración previa al contratar).
+Monto máximo para equipos electrónicos: 50 UF.
+
+5. RESPONSABILIDAD CIVIL (solo Plan Ampliado)
+Cubre daños que el asegurado cause involuntariamente a terceros desde su propiedad.
+Ejemplo: cañería que rompe e inunda al vecino del piso inferior.
+Monto máximo: 200 UF por evento.
+
+6. GASTOS DE ARRIENDO TEMPORAL
+Si el inmueble queda inhabitable por un siniestro cubierto, BICE cubre arriendo temporal.
+Monto máximo: 30 UF mensuales por hasta 3 meses.
+Solo aplica para Plan Propietario y Plan Ampliado.
+
+=== EXCLUSIONES ===
+
+Las siguientes situaciones NO están cubiertas:
+
+- Daños causados intencionalmente por el asegurado o personas que habiten el inmueble.
+- Daños por humedad estructural crónica o filtraciones conocidas previas a la contratación.
+- Daños a vehículos dentro del inmueble (se cubren con póliza automotriz).
+- Robo sin evidencia de fuerza.
+- Daños a obras de arte, antigüedades o colecciones no declaradas específicamente al contratar.
+- Inmuebles deshabitados por más de 60 días consecutivos sin notificación previa a BICE.
+- Daños causados por reparaciones o construcciones realizadas en el inmueble.
+
+=== PROCESO DE DENUNCIA DE SINIESTRO ===
+
+1. Llamar al número de siniestros hogar BICE: 600 600 2426 dentro de las 48 horas del evento.
+2. No retirar ni reparar los daños antes de la visita del perito (salvo riesgos de seguridad inmediatos).
+3. Documentos a presentar:
+   - Fotografías del daño.
+   - Presupuestos de reparación (mínimo 2 presupuestos).
+   - Documentos que acrediten la propiedad o arriendo del inmueble.
+   - Denuncia policial en caso de robo.
+4. El perito BICE visitará el inmueble dentro de 3 días hábiles desde la denuncia.
+5. El pago de la indemnización se realiza dentro de 15 días hábiles desde la aprobación.
+
+=== TASACIÓN Y PRIMA ===
+
+El valor asegurado se fija al contratar la póliza y se reajusta anualmente por IPC.
+Se recomienda revisar el valor asegurado cada 2 años para evitar infraseguro.
+En caso de infraseguro (valor asegurado menor al valor real), la indemnización se paga proporcionalmente.
+
+La prima anual depende de: superficie del inmueble, valor asegurado, ubicación geográfica, plan contratado y antigüedad de la construcción.
+
+=== CONTACTO BICE SEGUROS ===
+
+- Sitio web: www.biceseguros.cl
+- Teléfono central: 600 600 2420
+- Siniestros hogar: 600 600 2426
+- Horario de atención: lunes a viernes 9:00 a 18:00 hrs.

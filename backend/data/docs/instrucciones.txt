@@ -1,0 +1,2 @@
+Favor de colocar aquí los documentos PDF o TXT de las pólizas de BICE Seguros.
+El sistema procesará archivos que contengan en su nombre las palabras "auto", "vida" o "hogar" para clasificarlos automáticamente.
